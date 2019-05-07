@@ -24,8 +24,8 @@ set define off
 begin
   DBMS_CLOUD.create_credential(
     credential_name => 'OBJ_STORE_CRED_ADW',
-    username => 'oracleidentitycloudservice/eugene.simos@oracle.com',
-    password => 'NdniDWYA.v;vfRGIu3hf'
+    username => 'your accountm',
+    password => 'your password'
   );
 end;
 /
